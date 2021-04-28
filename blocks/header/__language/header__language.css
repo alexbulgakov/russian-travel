@@ -1,0 +1,10 @@
+.header__language {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.header__language:last-of-type {
+    text-decoration: none;
+}
