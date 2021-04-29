@@ -5,3 +5,5 @@
 git clone https://github.com/alexunnt/russian-travel
 ```
 ### затем следует открыть файл index.html в любом браузере.
+
+<a href="https://alexunnt.github.io/russian-travel/">Посмотреть проект</a>
