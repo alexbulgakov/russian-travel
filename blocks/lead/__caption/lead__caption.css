@@ -7,3 +7,9 @@
     margin-top: 8px;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 320px) {
+    .lead__caption {
+        margin-left: 16px;
+    }
+}

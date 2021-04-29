@@ -2,4 +2,5 @@
     font-family: 'Inter';
     background: #2A2C2F;
     min-width: 320px;
+    -webkit-font-smoothing: antialiased;
   }
