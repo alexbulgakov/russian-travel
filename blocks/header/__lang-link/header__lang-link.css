@@ -1,4 +1,4 @@
-.header__language {
+.header__lang-link {
     color: #FFFFFF;
     font-size: 24px;
     font-weight: 400;
@@ -6,10 +6,10 @@
     transition: opacity .5s linear;
 }
 
-.header__language:last-of-type {
+.header__lang-link:last-of-type {
     text-decoration: none;
 }
 
-.header__language:hover {
+.header__lang-link:hover {
     opacity: 0.5;
   }
