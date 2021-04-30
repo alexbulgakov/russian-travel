@@ -35,21 +35,18 @@
 
 @media screen and (max-width: 1024px) {
     .cover__container {
-        min-width: 1024px;
         min-height: 640px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .cover__container {
-        min-width: 768px;
         min-height: 480px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .cover__container {
-        min-width: 320px;
         min-height: 200px;
     }
 }
