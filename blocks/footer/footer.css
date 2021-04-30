@@ -9,6 +9,16 @@
     padding: 0 48px 24px;
 }
 
+@media screen and (max-width: 778px) {
+    .footer {
+        padding: 0 24px 24px;
+        flex-direction: column;
+        min-height: 400px;
+        align-items: flex-start;
+        padding-top: 64px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .footer {
         padding: 64px 16px 24px;
