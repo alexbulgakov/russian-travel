@@ -2,7 +2,7 @@
     text-decoration: none;
     font-size: 16px;
     font-weight: 400;
-    line-height: 18px;
+    line-height: 1.12;
     color: #FFFFFF;
     transition: opacity .5s linear;
 }
@@ -15,6 +15,6 @@
   @media screen and (max-width: 734px) {
     .footer__link {
         font-size: 24px;
-        line-height: 24px;
+        line-height: 1;
     }
 }
