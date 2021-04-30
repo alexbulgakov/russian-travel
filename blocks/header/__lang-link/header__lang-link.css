@@ -4,14 +4,11 @@
     font-weight: 400;
     line-height: 28px;
     transition: opacity .5s linear;
-}
-
-.header__lang-link:last-of-type {
     text-decoration: none;
 }
 
 .header__lang-link:hover {
-    opacity: 0.5;
+    opacity: 0.8;
   }
 
 @media screen and (max-width: 320px) {

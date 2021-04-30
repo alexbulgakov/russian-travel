@@ -20,11 +20,13 @@
         flex-direction: column;
         align-items: flex-start;
         min-height: 398px;
+        padding: 64px 16px 24px;
     }
 }
 
-@media screen and (max-width: 734px) {
+@media screen and (max-width: 352px) {
     .footer {
-        padding: 64px 16px 24px;
+        min-width: 186px;
+        min-height: 310px;
     }
 }
